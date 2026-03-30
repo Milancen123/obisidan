@@ -11,11 +11,13 @@ Defines how elements are structured and arranged across the page using flex and 
 - width: 100%
 - position: relative
 
-### section-spacing
-- padding-top: 100px
-- padding-bottom: 100px
-- padding-left:120px
-- padding-right: 120px
+### global-padding
+- padding-left: 8rem
+- padding-right: 8rem
+
+### global-section-padding
+- padding-top: 6rem
+- padding-bottom: 6rem
 
 ---
 
