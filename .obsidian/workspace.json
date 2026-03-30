@@ -1,0 +1,374 @@
+{
+  "main": {
+    "id": "6870222e45fd4271",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1d9cd840362f25e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee5b98287ec98a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/My Automated Blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Automated Blog"
+            }
+          },
+          {
+            "id": "e8dbd66d99a58870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "development/Error Handling in NextJS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Error Handling in NextJS"
+            }
+          },
+          {
+            "id": "3b92a27cfec5ceeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/ANSIBLE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ANSIBLE"
+            }
+          },
+          {
+            "id": "dce571f7a5f94b81",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2c5b7edebdcbe35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Foundations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Foundations"
+            }
+          },
+          {
+            "id": "5054bc11ed4d2908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Layout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_Layout"
+            }
+          },
+          {
+            "id": "383f0b36d77c2bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Spacing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_Spacing"
+            }
+          },
+          {
+            "id": "8a55e26988ead2c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Foundations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Foundations"
+            }
+          },
+          {
+            "id": "150ed53754ed7eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05_Components"
+            }
+          },
+          {
+            "id": "3eca9ccc85bd30d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Utilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06_Utilities"
+            }
+          },
+          {
+            "id": "039f5072c5a4f139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Spacing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_Spacing"
+            }
+          },
+          {
+            "id": "896e77f43c6b83f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08_Sections.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08_Sections"
+            }
+          },
+          {
+            "id": "cfee5c2ff6e392d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Typography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_Typography"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa6c8d33970004ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "082237baeb56981a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b05f1efb8db97b3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "10bec8589ee8e35c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a5b6c6f94b222af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "59f4c742fb047db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bc15f6e6017416e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16edde76f1cfac84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📅 Week 1 – Foundation & First Week.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 📅 Week 1 – Foundation & First Week"
+            }
+          },
+          {
+            "id": "8534efbe6e71ec45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📅 Week 1 – Foundation & First Week.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 📅 Week 1 – Foundation & First Week"
+            }
+          },
+          {
+            "id": "d74f71f09b834026",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5622e5599e2366b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📅 Week 1 – Foundation & First Week.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 📅 Week 1 – Foundation & First Week"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cfee5c2ff6e392d9",
+  "lastOpenFiles": [
+    "01_Foundations.md",
+    "02_Layout.md",
+    "03_Spacing.md",
+    "04_Typography.md",
+    "05_Components.md",
+    "08_Sections.md",
+    "07_Sections.md",
+    "06_Utilities.md",
+    "09_Checklist.md",
+    "Obsidian Vault.rar",
+    "Pasted image 20251213162906.png",
+    "Client First Webflow/01_Foundations",
+    "Client First Webflow",
+    "Untitled.base",
+    "Plan for getting a remote job in 2 months.md",
+    "Pasted image 20251213184330.png",
+    "Pasted image 20251213183533.png",
+    "Pasted image 20251213183230.png",
+    "Pasted image 20251213183009.png",
+    "Pasted image 20251213180639.png",
+    "Pasted image 20251213173533.png",
+    "Pasted image 20251213172902.png",
+    "Pasted image 20251213165931.png",
+    "Pasted image 20251213165835.png",
+    "📅 Week 1 – Foundation & First Week.md",
+    "posts/ANSIBLE.md",
+    "posts/My Automated Blog.md",
+    "posts/Untitled.md",
+    "development/Error Handling in NextJS.md",
+    "development",
+    "posts/My second blog.md",
+    "posts/my third blog.md",
+    "posts",
+    "Welcome.md"
+  ]
+}
