@@ -18,23 +18,23 @@ Defines all text styles including headings, paragraphs, and text utilities to en
 ## 2. Headings
 
 ### heading-h1
-- font-size: 90px
+- font-size: 6rem
 - line-height: 100
 - font-weight: bold
 - letter-spacing: 0
 
 ### heading-h2
-- font-size: 64px
+- font-size: 4rem
 - line-height: 72
 - font-weight: bold
 
 ### heading-h3
-- font-size: 40px
+- font-size: 2.5rem
 - line-height: auto
 - font-weight: bold
 
 ### heading-h4
-- font-size: 32px
+- font-size: 2rem
 - line-height: auto
 - font-weight: bold
 

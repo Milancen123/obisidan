@@ -16,7 +16,7 @@ Step-by-step system to build a complete website using the defined design system.
 
 ## 2. Layout Setup
 
-- [x] Create container-main
+- [ ] Create container-main
 - [ ] Create section classes (section, section-large, section-small)
 - [ ] Setup flex utilities (flex-row, flex-column)
 - [ ] Setup grid if needed
@@ -34,9 +34,9 @@ Step-by-step system to build a complete website using the defined design system.
 
 ## 4. Typography System
 
-- [x] Define font family
-- [x] Create heading classes (h1, h2, h3)
-- [x] Create text sizes (large, medium, small)
+- [ ] Define font family
+- [ ] Create heading classes (h1, h2, h3)
+- [ ] Create text sizes (large, medium, small)
 - [ ] Set line heights
 
 ---

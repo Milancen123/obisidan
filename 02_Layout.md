@@ -70,7 +70,7 @@ Defines how elements are structured and arranged across the page using flex and 
 ## 5. Common Wrappers
 
 ### wrapper-standard
-- max-width: 830px
+- max-width: 48rem
 - margin: auto
 
 ---

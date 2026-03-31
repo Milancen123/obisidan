@@ -24,16 +24,16 @@ Defines all margin, padding, and spacing rules across the project using a consis
 ## 2. Global Padding
 
 ### padding-global
-- padding-left: 120px
-- padding-right: 120px
+- padding-left: 8rem
+- padding-right: 8rem
 
 ---
 
 ## 3. Section Padding
 
 ### padding-section
-- padding-top: 100px
-- padding-bottom: 100px
+- padding-top: 6rem
+- padding-bottom: 6rem
 
 
 ---
@@ -45,13 +45,13 @@ Defines all margin, padding, and spacing rules across the project using a consis
 ### gap-small
 - gap: 24px
 ### gap-medium
-- gap: 32px
+- gap: 2rem
 ### gap-large
-- gap: 48px
+- gap: 3rem
 ### gap-xlarge
-- gap: 64px
+- gap: 4rem
 ### gap-xxlarge
-- gap: 100px
+- gap: 6rem
 
 ---
 
